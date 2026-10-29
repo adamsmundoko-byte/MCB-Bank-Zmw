@@ -1,0 +1,10 @@
+{
+  "name": "MCB Bank App V10.13.5.4 - 200MB YouTube",
+  "short_name": "MCB Bank",
+  "description": "200MB Upload + YouTube Wallet - Dollar Adams",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffeb00",
+  "icons": [{"src": "https://cdn-icons-png.flaticon.com/512/149/149071.png","sizes": "512x512","type": "image/png"}]
+}
